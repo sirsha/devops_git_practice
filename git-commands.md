@@ -26,7 +26,7 @@
 | `git commit` | make a commit | `git commit -m "added demo.txt"` |
 | `git reset file` | unstrack a file | `git reset demo.txt` |
 | `git status` | check if anything to commit/add | `git status` |
-| `git blame` | check if anything to commit/add | `git blame` |
+| `git blame` | check who last modified the file| `git blame` |
 | `git log` | check commit history | `git log` |
 | `git revert commit-id` | creates new commit that undoes changes made by given commit | `git revert 4ae73` |
 | `git reset commit-id` | reset head back till given commit id | `git reset 4ae73` |
